@@ -1,5 +1,5 @@
 const assert = require('assert');
-const op = require('../SRC/Operaciones');
+const op = require('../src/Operaciones');
 
 describe('Caja de operaciones básicas', () =>{
     var a=10;
