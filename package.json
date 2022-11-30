@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AndreyCV13/Test/issues"
   },
-  "homepage": "https://github.com/AndreyCV13/Test#readme"
+  "homepage": "https://github.com/AndreyCV13/Test#readme",
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  }
 }
